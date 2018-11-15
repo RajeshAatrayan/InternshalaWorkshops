@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#F9A825</color>
+    <color name="layout_bgcolor">#21a8fa</color>
+    <color name="yellow_bg">#fdbe28</color>
+    <color name="bltxt_clr">#0ea3ff</color>
+    <color name="textColor">#212121</color>
+    <color name="reda200">#FF5252</color>
+    <color name="pure_white">#fff</color>
+</resources>

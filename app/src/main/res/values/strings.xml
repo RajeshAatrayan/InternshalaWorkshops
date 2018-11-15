@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Internshala</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="addDash">addDashFrag</string>
+    <string name="oope_something">Oops something went wrong!</string>
+    <string name="account_created_succ">Account created successfully!</string>
+    <string name="enter_valid_email_id">Enter valid email id</string>
+    <string name="password">password</string>
+    <string name="last_name">last name</string>
+    <string name="first_name">first name</string>
+    <string name="please_fill_fields">Please fill all the fields</string>
+    <string name="please_enter_email">Please Enter your email</string>
+    <string name="email_taken">Email id already taken</string>
+    <string name="username_taken">Username already taken</string>
+    <string name="please_enter_valid">Please enter valid email id</string>
+    <string name="please_enter_email_add">Please enter your email address</string>
+    <string name="sorry_already_registered">Sorry you have already registered</string>
+    <string name="req_failed">Request Failed</string>
+    <string name="req_sent">Request sent</string>
+    <string name="you_are_not_signed_in">You are not signed in</string>
+    <string name="you_haven_t_applied_any_workshops_yet">You haven\'t applied any workshops yet</string>
+    <string name="password_len">Password length should be atleast 6</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="lastname">Lastname</string>
+    <string name="firstname">Firstname</string>
+    <string name="applied_workshops">Applied Workshops</string>
+    <string name="sorry_you_have_already_registered">Sorry you have already registered for this workshop</string>
+    <string name="you_have_successfully_registered">You have successfully registered</string>
+    <string name="apply">Apply</string>
+</resources>
