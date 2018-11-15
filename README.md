@@ -40,7 +40,7 @@ b) Use of one activity and multiple fragments to fulfill the requirements is rec
   <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286255.png" width="280" heighth="410"/>
   </div>
   
-  ###Database Used
+### Database Used
 
 * Sqlite
 * SharePreferences
