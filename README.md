@@ -43,4 +43,4 @@ b) Use of one activity and multiple fragments to fulfill the requirements is rec
 ### Database Used
 
 * Sqlite
-* SharePreferences
+* SharedPreferences
