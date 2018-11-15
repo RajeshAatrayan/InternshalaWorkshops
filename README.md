@@ -14,11 +14,11 @@ Screens to be developed:
 to all users, irrespective of whether or not they are logged in. The list of available workshops and their
 details must be fetched from SQLite database. You may manually hard code entries in the 
 database (no need to make a form to enter workshops and their details in the database). Each workshop must have
-an ‘Apply’ button. Functionality of this button-If student is not logged in, this button should redirect the student to
-the login screen.
+an ‘Apply’ button. Functionality of this button-If student is not logged in, this button should redirect
+the student to the login screen.
 If student is logged in, this button should record this event (that the student has applied for the workshop)
-Student ‘Dashboard’ screen - It should display the list of workshops the student has applied to. This should be the default
-screen after student login.Student should not be allowed to register for a workshop twice.
+Student ‘Dashboard’ screen - It should display the list of workshops the student has applied to. This should
+be the default screen after student login.Student should not be allowed to register for a workshop twice.
 
 Technical details:
 a) Use of the following components is mandatory:
@@ -28,3 +28,19 @@ Shared preferences
 SQlite
 b) Use of one activity and multiple fragments to fulfill the requirements is recommended.
 ```
+### Screenshots
+<div>
+  <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286147.png" width="280" heighth="410"/>
+  <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286157.png" width="280" heighth="410"/>
+  <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286169.png" width="280" heighth="410"/>
+  <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286199.png" width="280" heighth="410"/>
+  <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286220.png" width="280" heighth="410"/>
+  <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286236.png" width="280" heighth="410"/>
+  <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286250.png" width="280" heighth="410"/>
+  <img src="https://github.com/RajeshAatrayan/InternshalaWorkshops/blob/master/Screenshot_1542286255.png" width="280" heighth="410"/>
+  </div>
+  
+  ###Database Used
+
+* Sqlite
+* SharePreferences
